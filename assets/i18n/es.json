@@ -1,0 +1,20 @@
+{
+  "HOME": "Inicio",
+  "ABOUT_US": "Sobre Nosotros",
+  "CONTACT_US": "Contáctanos",
+  "UPLOAD_DOCUMENT": "Subir Documento",
+  "USER_LOGIN": "Inicio de Sesión",
+  "USER_REGISTRATION": "Registro de Usuario",
+  "USER_DASHBOARD": "Panel de Usuario",
+  "TRANSLATOR_DASHBOARD": "Panel del Traductor",
+  "PRIVACY_POLICY": "Política de Privacidad",
+  "TERMS_AND_CONDITIONS": "Términos y Condiciones",
+  "FAQ": "Preguntas Frecuentes",
+
+  "SIGN_IN": "Iniciar sesión",
+  "ABOUT": "Acerca de",
+  "CONTACT": "Contacto",
+  "SERVICES": "Servicios",
+  "TRANSLATION": "Traducción",
+  "APPLICATION": "Aplicación"
+}
